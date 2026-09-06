@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:03:38.179474Z",
+  "generated_at": "2026-09-06T00:16:34.015779Z",
   "stats": {
     "active_users": 45,
     "airports_mapped": 573,
@@ -58,24 +58,24 @@
   ],
   "recently_added_airports": [
     {
-      "code": "JAC",
-      "name": "Jackson Hole Airport"
+      "code": "ADL",
+      "name": "Adelaide International Airport"
     },
     {
-      "code": "RKV",
-      "name": "Reykjavík Domestic Airport"
+      "code": "AMD",
+      "name": "Sardar Vallabh Patel International Airport"
     },
     {
-      "code": "SOU",
-      "name": "Southampton Airport"
+      "code": "EBB",
+      "name": "Entebbe International Airport"
     },
     {
-      "code": "BRI",
-      "name": "Bari Karol Wojtyła International Airport"
+      "code": "EMA",
+      "name": "East Midlands Airport"
     },
     {
-      "code": "LNZ",
-      "name": "Linz-Hörsching Airport"
+      "code": "FDF",
+      "name": "Martinique Aimé Césaire International Airport"
     }
   ]
 }
