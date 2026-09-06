@@ -1,0 +1,22 @@
+[
+  {
+    "code": "JAC",
+    "name": "Jackson Hole Airport"
+  },
+  {
+    "code": "RKV",
+    "name": "Reykjavík Domestic Airport"
+  },
+  {
+    "code": "SOU",
+    "name": "Southampton Airport"
+  },
+  {
+    "code": "BRI",
+    "name": "Bari Karol Wojtyła International Airport"
+  },
+  {
+    "code": "LNZ",
+    "name": "Linz-Hörsching Airport"
+  }
+]
